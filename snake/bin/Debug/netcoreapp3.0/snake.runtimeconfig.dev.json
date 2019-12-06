@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\buldakov\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\buldakov\\.nuget\\packages"
+    ]
+  }
+}
