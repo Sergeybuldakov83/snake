@@ -14,6 +14,7 @@ namespace snake
         {
            /*  Console.WriteLine("Создается новая точка"); */
 
+
         }
 
         public Point(int _x, int _y, char _sym)
